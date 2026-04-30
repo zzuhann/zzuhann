@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<picture>
-<img src="https://images.unsplash.com/photo-1537490268234-16f293c701a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80" width="500"/>
-</picture>
-
+<figure>
+<img src="https://images.unsplash.com/photo-1633967920376-33b2d94f091f?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="500"/>
+</figure>
 
 Hi, I'm Tzu Han —— a front-end developer. Eager to convert needs into valuable and appealing interactive applications and build better products!✨
 
 ## 📌 Pin
-[Fluffy 🐶🐱🏠](https://github.com/zzuhann/fluffy)
+[STELLAR 台灣生咖地圖平台](https://www.stellar-zone.com/)
 
-A pet platform. Fluffy desires to promote stray animals in shelters in Taiwan. People who want to adopt a pet can meet lovely dogs and cats, and those who have pets can also share their daily lives with other people.
+A location-based platform that aggregates K-pop birthday cafe information scattered across social media. Fans can discover nearby cafes through an interactive map, search for idols, and share cafe events with the community.
 
 ## 💻 Get In Touch With Me
 LinkedIn: <https://www.linkedin.com/in/zzuhanlin/>
